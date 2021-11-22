@@ -20,5 +20,13 @@ The printQuote function is called in two scenarios:
 - When the button is clicked (using an Event Listener)
 - With the setInterval function
 
-The final project can be viewed at :
+The final project can be viewed at : https://tshenoy19.github.io/Random-Quote-Generator/
+
+Resources:
+
+https://teamtreehouse.com/
+
+https://developer.mozilla.org/en-US/docs/Web/API/setInterval 
+
+https://stackoverflow.com/questions/62732368/background-color-changingonclick-via-javascript-not-working
 
