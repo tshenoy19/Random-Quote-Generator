@@ -118,3 +118,19 @@ window.setInterval(printQuote, 20000);
 document
   .getElementById("load-quote")
   .addEventListener("click", printQuote, false);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
